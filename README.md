@@ -1,2 +1,2 @@
-# Brainfuck-Decommenter
-A Simple comment remover for brainfuck programs.
+# Brainfrick-Decommenter
+A Simple comment remover for brainfrick programs.
